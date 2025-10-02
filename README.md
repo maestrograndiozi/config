@@ -1,2 +1,2 @@
-# config
-Basic configs
+# Basic Configs
+
